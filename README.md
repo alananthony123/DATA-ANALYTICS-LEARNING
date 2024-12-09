@@ -1,1 +1,1 @@
-# This is my data analytics learning projects from scratch.I have worked using different tools in this.I have worked with pandas to perform data cleaning,filtering and matplotlib for visualisation.I have also used different tools in power BI to perform different data analysis operations.
+# This is my data analytics learning projects from scratch.I have worked with pandas to perform data cleaning,filtering and matplotlib for visualisation.I have also used different tools in power BI to perform different data analysis operations.
